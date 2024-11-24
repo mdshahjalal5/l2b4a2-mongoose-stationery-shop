@@ -82,6 +82,10 @@ npm run dev
 
 ```
 
+## Live Preview
+
+[Live Preview](https://l2b4a2-mongoose-stationery-shop.vercel.app/)
+
 ## API Endpoints
 
 ### Products
